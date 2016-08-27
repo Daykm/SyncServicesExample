@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SyncServices</string>
+    <string name="authority">com.example.daykm.syncservices.StubProvider</string>
+    <string name="authority_first">com.example.daykm.syncservices.FirstExampleService</string>
+    <string name="authority_second">com.example.daykm.syncservices.SecondExampleService</string>
+    <string name="account_type">Example Account Type</string>
+    <string name="button_request_sync">Request Sync</string>
+</resources>
